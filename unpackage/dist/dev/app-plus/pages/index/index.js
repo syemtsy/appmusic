@@ -1,0 +1,2 @@
+setCssToHead(["wx-uni-nav-bar{ background-color: #0077AA; color: rgb(0, 0, 0); font-size: 18px; }\n.",[1],"flexd{ height: ",[0,50],"; }\n",],undefined,{path:"./pages/index/index.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/index/index.wxml') } }));

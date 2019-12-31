@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "musictest",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "h-form-alert": "/components/h-form-alert/h-form-alert",
+    "uni-nav-bar": "/components/uni-nav-bar/uni-nav-bar",
+    "sun-tab": "/components/sun-tab/sun-tab",
+    "recommend": "/components/recommend",
+    "popular-song": "/components/PopularSong",
+    "search": "/components/Search"
+  }
+}

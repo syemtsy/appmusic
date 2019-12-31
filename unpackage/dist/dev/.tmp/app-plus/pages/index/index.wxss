@@ -1,0 +1,10 @@
+
+uni-nav-bar{
+    background-color: #0077AA;
+    color: rgb(0, 0, 0);
+	font-size: 18px;
+}
+.flexd{
+	height: 50rpx;
+}
+
